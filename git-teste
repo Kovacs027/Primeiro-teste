@@ -3,8 +3,8 @@
 
         public static void(String[] args)
     {
-        System.out.println("teste");
-        pessas para computador
+        System.out.println("teste no Git");
+        Olá me chamo luiz;
         
     }
 }
